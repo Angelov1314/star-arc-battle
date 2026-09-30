@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "viewport": [1280, 720],
+  "town": {
+    "visual_model": "baked_raster",
+    "runtime_object_model": "interactive_entities",
+    "collision_model": "trigger_zones",
+    "engine_target": "Godot project-native",
+    "background": "res://assets/art/town.png",
+    "zones": [
+      {"id":"character","rect":[172,268,284,226],"badge":[222,485]},
+      {"id":"arena","rect":[471,175,330,226],"badge":[538,395]},
+      {"id":"workshop","rect":[836,285,279,242],"badge":[898,515]}
+    ]
+  },
+  "forest": {
+    "visual_model": "baked_raster",
+    "runtime_object_model": "interactive_entities",
+    "collision_model": "project_native_heightfield",
+    "engine_target": "Godot project-native",
+    "background": "res://assets/art/forest.png",
+    "terrain_texture": "res://assets/art/soil.png",
+    "height_sample_step": 8,
+    "spawn_x": [230,1040],
+    "movement_bounds": [65,1215],
+    "hud_safe_top": 110,
+    "hud_safe_bottom": 568
+  },
+  "characters": {"atlas":"res://assets/art/heroes.png","grid":[2,2],"cell_size":[627,627],"runtime_rect":[-64,-124,128,128],"pivot":"feet","collision_radius":24}
+}

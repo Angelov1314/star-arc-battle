@@ -1,0 +1,14 @@
+Godot Engine v4.6.1.stable.official.14d19694e - https://godotengine.org
+
+MATCH 00: winner=1 turns=12 hits=5/6 simulated=37.7s
+MATCH 01: winner=0 turns=11 hits=6/5 simulated=33.9s
+MATCH 02: winner=1 turns=10 hits=5/5 simulated=30.6s
+MATCH 03: winner=1 turns=10 hits=5/5 simulated=32.5s
+MATCH 04: winner=1 turns=10 hits=5/5 simulated=27.4s
+MATCH 05: winner=1 turns=10 hits=5/5 simulated=31.5s
+MATCH 06: winner=1 turns=10 hits=5/5 simulated=34.6s
+MATCH 07: winner=1 turns=10 hits=5/5 simulated=31.6s
+MATCH 08: winner=1 turns=10 hits=5/5 simulated=32.2s
+MATCH 09: winner=1 turns=10 hits=5/5 simulated=29.4s
+10 match simulation wall time: 7.14s
+CHECKS: 90 | FAILURES: 0

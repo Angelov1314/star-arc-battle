@@ -1,0 +1,38 @@
+Star Arc Battle public source snapshot
+
+Source repository: local DDT source repository (not included)
+Source revision: ce94574cfb94e5ebb0c959418c4be82cbeebb16f
+Project version: 0.5.2 (from project.godot)
+Final snapshot size: 130 files, 38,428,894 bytes (about 14M on disk)
+
+Included: project.godot, export_presets.cfg, Main.tscn, authored GDScript,
+core tests, map data, current generated art, procedural WAV audio, provenance,
+license notice, and selected historical validation evidence.
+
+Excluded: .git, AGENTS.md, editor/import metadata, .godot/ and other caches,
+build archives, old MP3 prototype audio, generated UI leftovers, local logs,
+user saves, machine-specific build scripts, and private/account material.
+
+Static audit:
+- 130 regular files; no symlinks in the final snapshot.
+- No zero-byte files in the final snapshot.
+- No credential-like filenames were found (filename count: 0).
+- No local absolute paths or cloud-synced paths
+  remain in the scanned public text files.
+- Static asset/reference checks passed: 14 PNG and 33 WAV files were present,
+  non-zero, and had expected file signatures; checked scene/script references
+  resolve, with four test-report paths intentionally generated after mkdir.
+
+Runtime validation:
+- NOT RUN in this environment. The configured Godot application resolves to
+  an unavailable external volume, so the Godot executable could not be
+  launched. Existing historical test evidence remains under
+  docs/validation/ and is labeled as historical in README.md.
+
+Asset result:
+- Current art is documented in assets/art/manifest.json and is marked as
+  generated for this project, not independently legally reviewed.
+- Current audio is documented in assets/sound/original/README.md and
+  manifest.json as procedural synthesis without external samples.
+- No blanket open-source license is granted; see LICENSE.md and
+  docs/ASSET_PROVENANCE.md.

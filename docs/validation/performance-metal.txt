@@ -1,0 +1,7 @@
+Godot Engine v4.6.1.stable.official.14d19694e - https://godotengine.org
+Metal 4.0 - Forward Mobile - Using Device #0: Apple - Apple M5 (Apple9)
+
+Wall frame interval median: 8.33ms; p95: 8.80ms
+Render resolution: 1920x1080, samples: 599
+Frame delta median: 8.33ms; p95: 8.33ms
+Engine process median: 10.07ms; p95: 16.59ms; peak physics: 3.37ms

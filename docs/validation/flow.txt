@@ -1,0 +1,26 @@
+Godot Engine v4.6.2.stable.official.71f334935 - https://godotengine.org
+
+PASS: button available: 角色小屋
+PASS: button available: 选择武器
+PASS: weapon preview selection
+PASS: button available: 保存配装
+PASS: save loadout
+PASS: button available: ←  风铃港
+PASS: button available: 强化工坊
+PASS: button available: 强化 · 60 金币
+PASS: upgrade confirmation
+PASS: button available: 确认强化
+PASS: upgrade debits once
+PASS: button available: 进入竞技场   →
+PASS: battle takes saved loadout
+PASS: combat reaches result screen
+PASS: result reward persisted
+PASS: button available: 返回风铃港
+PASS: result returns to town
+PASS: restart preserves earned resources and loadout
+PASS: pause UI connected
+PASS: button available: 重新挑战
+PASS: restart resets all match state
+PASS: button available: 返回风铃港
+PASS: abandoned match grants no reward
+FLOW FAILURES: 0

@@ -1,0 +1,95 @@
+[
+  {
+    "assetId": "town",
+    "path": "town.png",
+    "source": "Built-in image_gen, original prompts in town.prompt.txt",
+    "licenseStatus": "AI generated for this project, not independently legally reviewed"
+  },
+  {
+    "assetId": "forest",
+    "path": "forest.png",
+    "source": "Built-in image_gen, original prompts in forest.prompt.txt",
+    "licenseStatus": "AI generated for this project, not independently legally reviewed"
+  },
+  {
+    "assetId": "heroes",
+    "path": "heroes.png",
+    "source": "Built-in image_gen, original prompts in heroes.prompt.txt",
+    "licenseStatus": "AI generated for this project, not independently legally reviewed"
+  },
+  {
+    "assetId": "soil",
+    "path": "soil.png",
+    "source": "Built-in image_gen; prompt in soil.prompt.txt",
+    "licenseStatus": "AI generated for this project; not independently legally reviewed"
+  },
+  {
+    "assetId": "app-icon",
+    "path": "app-icon.png",
+    "source": "Built-in image_gen; prompt in app-icon.prompt.txt",
+    "licenseStatus": "AI generated for this project; not independently legally reviewed"
+  },
+  {
+    "assetId": "moss-guardian",
+    "path": "moss-guardian.png",
+    "source": "Built-in image_gen; original prompt in moss-guardian.prompt.txt",
+    "layout": "1254x1254 RGBA; faces right; feet pivot approximately (0.5, 0.96)",
+    "licenseStatus": "AI generated for this project"
+  },
+  {
+    "assetId": "inventory-atlas",
+    "path": "inventory-atlas.png",
+    "source": "Built-in image_gen; original prompt in inventory-atlas.prompt.txt",
+    "layout": "1774x887 RGBA; 4 columns x 2 rows; row major: ember, volt, feather, moss, wood, dust, medkit, drink",
+    "licenseStatus": "AI generated for this project"
+  },
+  {
+    "assetId": "mine-background",
+    "path": "mine-background.png",
+    "source": "Built-in image_gen; original prompt in mine-background.prompt.txt",
+    "layout": "1672x941 RGB; side-view backdrop, runtime height field overlays lower region",
+    "licenseStatus": "AI generated for this project"
+  },
+  {
+    "assetId": "furnace-guardian",
+    "path": "furnace-guardian.png",
+    "source": "Built-in image_gen; original prompt in furnace-guardian.prompt.txt",
+    "layout": "1254x1254 RGBA; faces right; ground pivot approximately (0.5, 0.97)",
+    "licenseStatus": "AI generated for this project"
+  },
+  {
+    "assetId": "mine-items-atlas",
+    "path": "mine-items-atlas.png",
+    "source": "Built-in image_gen; original prompt in mine-items-atlas.prompt.txt",
+    "layout": "2172x724 RGBA; 3 columns x 1 row; 724px cells: copper_ore, armor_breaker, rockcore",
+    "licenseStatus": "AI generated for this project"
+  },
+  {
+    "assetId": "sky-background",
+    "path": "sky-background.png",
+    "source": "Built-in image_gen; original prompt in sky-background.prompt.txt",
+    "layout": "1672x941 RGB; side-view floating ruins backdrop, runtime terrain drawn separately",
+    "licenseStatus": "AI generated for this project"
+  },
+  {
+    "assetId": "storm-lord",
+    "path": "storm-lord.png",
+    "source": "Built-in image_gen; original prompt in storm-lord.prompt.txt",
+    "layout": "1254x1254 RGBA; faces right; ground pivot approximately (0.5, 0.96)",
+    "licenseStatus": "AI generated for this project"
+  },
+  {
+    "assetId": "sky-items-atlas",
+    "path": "sky-items-atlas.png",
+    "source": "Built-in image_gen; original prompt in sky-items-atlas.prompt.txt",
+    "layout": "2172x724 RGBA; 3 columns x 1 row; 724px cells: relic_shard, echo_gem, pierce_gem",
+    "licenseStatus": "AI generated for this project"
+  },
+  {
+    "assetId": "painted-ui-atlas",
+    "path": "ui/painted-ui-atlas.png",
+    "source": "Built-in image_gen exec-2ab8b5d2; original prompt in ui/painted-ui-atlas.prompt.txt",
+    "layout": "1536x1024 RGB opaque atlas; 3 columns x 2 rows of contiguous 512px cells: dark, light, banner, primary, secondary, slot. Each cell is a full-bleed nine-slice skin with a quiet center.",
+    "licenseStatus": "AI generated for this project, not independently legally reviewed"
+  }
+]
